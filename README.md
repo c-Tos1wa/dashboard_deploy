@@ -49,4 +49,4 @@ Este projeto está sob [Licença](LICENSE)
 
 ## Observação
 
-Este projeto é parte do conjunto de aulas ministradas pela [Hashtag](https://www.hashtagtreinamentos.com/curso-python?fonte=perpetuo&origemurl=189595199406&src=vtsd_py_conv_compra_01&gad_source=1&gad_campaignid=23404347732&gbraid=0AAAAADLlh8-dDxcpdwKQhiyTYm1Ga0uV-&gclid=CjwKCAjwrP3VBhBbEiwAnaqpQzhwbH8HrZ3c3ulmzthyHaKIag-dAhvEa1qN3Au7oUpz973Ncz9KKxoCAlAQAvD_BwE&curso=python&pg=pg-inscricao) durante a Jornada Python.
+Este projeto é parte do conjunto de aulas ministradas pela <a href="https://www.hashtagtreinamentos.com/curso-python?fonte=perpetuo&origemurl=189595199406&src=vtsd_py_conv_compra_01&gad_source=1&gad_campaignid=23404347732&gbraid=0AAAAADLlh8-dDxcpdwKQhiyTYm1Ga0uV-&gclid=CjwKCAjwrP3VBhBbEiwAnaqpQzhwbH8HrZ3c3ulmzthyHaKIag-dAhvEa1qN3Au7oUpz973Ncz9KKxoCAlAQAvD_BwE&curso=python&pg=pg-inscricao" target="_blank">Hashtag</a> durante a Jornada Python.
