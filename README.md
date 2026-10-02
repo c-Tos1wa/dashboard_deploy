@@ -3,6 +3,7 @@
 ## Objetivo
 
 Criar um sistema de cadastro de produtos e fazer um dashboard com os dados já registrados e os novos.
+Para testar o sistema clique [AQUI](https://dashboarddeploy.streamlit.app/)
 
 ## Pré-requisitos
 
