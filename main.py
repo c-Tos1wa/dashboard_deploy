@@ -2,7 +2,7 @@ import pandas as pd
 import plotly.express as px
 import streamlit as st
 
-db = pd.read_csv("/home/cristoshie/create_dashboard/database/vendas.csv")
+db = pd.read_csv("vendas.csv")
 
 st.title("Sistema de gestão de vendas")
 
