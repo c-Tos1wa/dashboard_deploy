@@ -23,7 +23,7 @@ if button:
     else:
         new_record = [date, employer, product, quantity, value]
         db.loc[len(db)] = new_record
-        db.to_csv("/home/cristoshie/create_dashboard/database/vendas.csv", index = False)
+        db.to_csv("vendas.csv", index = False)
         st.success("Venda cadastrada!")
 
 # dataframe dos dados da tabela
@@ -39,8 +39,7 @@ bar_chart = px.bar(
     db,
     x = "vendedor",
     y = "valor",
-    color = "produto",
-    #title = "Gráfico de vendas por vendedor e produto"
+    color = "produto"
 )
 bar_chart.update_layout(
     title_text = "Gráfico de Vendas por vendedor e por produtos",
